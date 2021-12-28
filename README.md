@@ -6,8 +6,8 @@
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=publicnich&layout=compact&theme=highcontrast)](https://github.com/publicnich/github-readme-stats)
 ![Nich's GitHub stats](https://github-readme-stats.vercel.app/api?username=publicnich&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=publicnich&layout=compact&theme=highcontrast)](https://github.com/publicnich/github-readme-stats)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
