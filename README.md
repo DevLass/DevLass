@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/publicnich/publicnich/raw/main/imnich.gif" alt="Hey there, I'm Nich" height="567" width="1000">
+</p>
+
 
 ### *Hey there, I'm Nich, a web developer* 
 ### *And this, is my profile on Github:*
