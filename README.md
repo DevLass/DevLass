@@ -3,7 +3,7 @@
 </p>
 
 
-### *Hey there, I'm Nich, a web developer* 
+## *Hey there, I'm Nich, a web developer* 
 ### *And this, is my profile on Github:*
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
