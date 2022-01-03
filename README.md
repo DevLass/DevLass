@@ -14,9 +14,9 @@
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### This profile has a different format, I expose my learning to each project
+### *This profile has a different format, I expose my learning to each project*
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italicnich&layout=compact&theme=tokyonight)](https://github.com/italicnich/github-readme-stats)
-### Almost a blog, so take a look at a project
+### *Almost a blog, so take a look at a project*
 ## *To contact me:*  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
