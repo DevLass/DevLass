@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  
 
-  <h1> <i> Hey There, I'm Nich </i> </h1>
+  <h1> <i> Hey There, I'm <a href="#"> Nich </a> </i> </h1>
 
   <h3> <i> And this is a little introduction to my profile on github </i> </h3>
   
@@ -28,10 +28,10 @@
   
   
 
-### *Almost a blog, so take a look at a project*
-## *To contact me:*  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+  <h3><i>Let's work together? </i></h3>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+
 
 </div>
 
