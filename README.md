@@ -24,8 +24,6 @@
   
    <h3> <i> I'm a Brazilian web developer with a thirst for knowledge, and I'm always posting my evolution here </i> </h3>
   
-   <h3> <i> This is currently my featured project, take a look: </i> </h3>
-  
   <img src="https://github.com/italicnich/italicnich/raw/main/imnich_2.png" alt="Hey there, I'm Nich"  width="1000">
   
 
