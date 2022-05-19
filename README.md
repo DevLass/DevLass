@@ -26,11 +26,7 @@
   
    <h3> <i> This is currently my featured project, take a look: </i> </h3>
   
-  <p align="center">
-    <video width="1000" controls>
-       <source src="https://github.com/italicnich/italicnich/raw/main/imnich2.mp4" type="video/mp4">
-    </video>
-  </p>
+  <img src="https://github.com/italicnich/italicnich/raw/main/imnich2.gif" alt="Hey there, I'm Nich"  width="1000">
   
 
   <h3><i>Let's work together? </i></h3>
