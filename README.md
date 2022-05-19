@@ -27,7 +27,7 @@
   <img src="https://github.com/italicnich/italicnich/raw/main/projects.png" alt="Hey there, I'm Nich"  width="1000">
   
 
-  <h3><i>Let's work together? </i></h3>
+  <h3><i>So, let's work together? </i></h3>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
 
