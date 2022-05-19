@@ -26,6 +26,9 @@
   
    <h3> <i> This is currently my featured project, take a look: </i> </h3>
   
+  <p align="center">
+    <img src="https://github.com/italicnich/italicnich/raw/main/imnich2.png" alt="Hey there, I'm Nich"  width="1000">
+  </p>
   
 
   <h3><i>Let's work together? </i></h3>
