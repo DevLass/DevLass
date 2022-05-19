@@ -12,9 +12,17 @@
 ![Sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## *Hey there, I'm Nich, a web developer* 
+<h1 color="black"> Hey There, I'm Nich</h1>
+
 ### *And this, is my profile on Github:*
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italicnich&layout=compact&theme=tokyonight)](https://github.com/italicnich/github-readme-stats)
+
+<div align="justify">
+  <a href="https://github.com/italicnich">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=italicnich&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italicnich&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
 
 
 
@@ -22,4 +30,4 @@
 ## *To contact me:*  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-![Nich's GitHub stats](https://github-readme-stats.vercel.app/api?username=italicnich&show_icons=true&theme=tokyonight)
+
