@@ -26,6 +26,8 @@
   
   <img src="https://github.com/italicnich/italicnich/raw/main/projects.png" alt="Main Project title"  width="1000">
   
+  <h2> <i> Plataform Run Game <i> </h2>
+  
   <img src="https://github.com/italicnich/italicnich/raw/main/img-gif.gif" alt="Main Project" width="1000">
   
   <h3> <i> This is a simple game with html, css and javascript, it has simple jump and collision functions and it was the first time I dealt with continuous animations in css  </i> </h3>
