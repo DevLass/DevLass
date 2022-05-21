@@ -30,12 +30,12 @@
   
   <img src="https://github.com/italicnich/italicnich/raw/main/img-gif.gif" alt="Main Project" width="1000">
   
-  <h3> <i> This is a simple game with html, css and javascript, it has simple jump and collision functions and it was the first time I dealt with continuous animations in css  </i> </h3>
+  <h3 align="justify"> <i> This is a simple game with html, css and javascript, it has simple jump and collision functions and it was the first time I dealt with continuous animations in css  </i> </h3>
  
-  <h3> <i>I intend to work a little more on this project, add a scoreboard and a menu, but you can see more details of this process in my <a href="#" target="_blank" rel="external"> repository </a> </i> </h3>
+  <h3 align="justify"> <i>I intend to work a little more on this project, add a scoreboard and a menu, but you can see more details of this process in my <a href="#" target="_blank" rel="external"> repository </a> </i> </h3>
   
-  <h3> <i> Artist credits: <a href="https://opengameart.org/content/sunny-land-2d-pixel-art-pack" target="_blank" rel="external"> ansimuz </a> </i> </h3>
- 
+  <h3 align="justify"> <i> Artist credits: <a href="https://opengameart.org/content/sunny-land-2d-pixel-art-pack" target="_blank" rel="external"> ansimuz </a> </i> </h3>
+    
   <h3><i>So, let's work together? 💜</i></h3>
   
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
