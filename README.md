@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  
 
-  <h1> <i> Hey There, I'm <a href="#"> Nich </a> </i> </h1>
+  <h1> <i> Hey There, I'm <a href="#" target="_blank" rel="external"> Nich </a> </i> </h1>
 
   <h3> <i> And this is a little introduction to my profile on github </i> </h3>
   
@@ -32,9 +32,9 @@
   
   <h3> <i> This is a simple game with html, css and javascript, it has simple jump and collision functions and it was the first time I dealt with continuous animations in css  </i> </h3>
  
-  <h3> <i>I intend to work a little more on this project, add a scoreboard and a menu, but you can see more details of this process in my <a href="#"> repository </a> </i> </h3>
+  <h3> <i>I intend to work a little more on this project, add a scoreboard and a menu, but you can see more details of this process in my <a href="#" target="_blank" rel="external"> repository </a> </i> </h3>
   
-  <h3> <i> Artist credits: <a href=https://opengameart.org/content/sunny-land-2d-pixel-art-pack> ansimuz </a> </i> </h3>
+  <h3> <i> Artist credits: <a href="https://opengameart.org/content/sunny-land-2d-pixel-art-pack" target="_blank" rel="external"> ansimuz </a> </i> </h3>
  
   <h3><i>So, let's work together? 💜</i></h3>
   
