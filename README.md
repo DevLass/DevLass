@@ -26,10 +26,14 @@
   
   <img src="https://github.com/italicnich/italicnich/raw/main/projects.png" alt="Main Project title"  width="1000">
   
-  <h3> <i> This is a simple game with html, css and javascript,  </i> </h3>
-  
   <img src="https://github.com/italicnich/italicnich/raw/main/img-gif.gif" alt="Main Project" width="1000">
   
+  <h3> <i> This is a simple game with html, css and javascript, it has simple jump and collision functions and it was the first time I dealt with continuous animations in css  </i> </h3>
+ 
+  <h3> <i>The art was not made by me, just edited to fit the project </i> </h3>
+  
+  <h3> <i> Artist credits: <a href=https://opengameart.org/content/sunny-land-2d-pixel-art-pack> ansimuz </a> </i> </h3>
+ 
   <h3><i>So, let's work together? 💜</i></h3>
   
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
