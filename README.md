@@ -30,7 +30,7 @@
   
   <h3> <i> This is a simple game with html, css and javascript, it has simple jump and collision functions and it was the first time I dealt with continuous animations in css  </i> </h3>
  
-  <h3> <i>The art was not made by me, just edited to fit the project </i> </h3>
+  <h3> <i>See more details in my repository: </i> </h3>
   
   <h3> <i> Artist credits: <a href=https://opengameart.org/content/sunny-land-2d-pixel-art-pack> ansimuz </a> </i> </h3>
  
