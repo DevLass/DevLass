@@ -36,7 +36,9 @@
   
   <h3 align="justify"> <i> Artist credits: <a href="https://opengameart.org/content/sunny-land-2d-pixel-art-pack" target="_blank" rel="external"> ansimuz </a> </i> </h3>
     
-  <h3><i>So, let's work together? 💜</i></h3>
+  <img src="https://github.com/italicnich/italicnich/raw/main/letswork.png" alt="So, let's work together?"  width="1000">
+    
+
   
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
