@@ -24,9 +24,11 @@
   
    <h3> <i> I'm a Brazilian web developer with a thirst for knowledge, and I'm always posting my evolution here </i> </h3>
   
-  <img src="https://github.com/italicnich/italicnich/raw/main/projects.png" alt="Hey there, I'm Nich"  width="1000">
+  <img src="https://github.com/italicnich/italicnich/raw/main/projects.png" alt="Main Project title"  width="1000">
   
-  <img src="https://github.com/italicnich/italicnich/raw/main/img-gif.gif" alt="Hey there, I'm Nich" width="1000">
+  <h3> <i> This is a simple game with html, css and javascript,  </i> </h3>
+  
+  <img src="https://github.com/italicnich/italicnich/raw/main/img-gif.gif" alt="Main Project" width="1000">
   
   <h3><i>So, let's work together? 💜</i></h3>
   
