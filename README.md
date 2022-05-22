@@ -37,17 +37,11 @@
   <h3 align="justify"> <i> Artist credits: <a href="https://opengameart.org/content/sunny-land-2d-pixel-art-pack" target="_blank" rel="external"> ansimuz </a> </i> </h3>
     
   <img src="https://github.com/italicnich/italicnich/raw/main/just-a-line.png" alt="Just a purple line"  width="1000" height="20">
-    
-  <a href="#" target="_blank" rel="external"> <img src="https://github.com/italicnich/italicnich/raw/main/letswork.png" alt="My Linkedin"  width="1000"> </a>
-    
+  <a href="#" target="_blank" rel="external"> <img src="https://github.com/italicnich/italicnich/raw/main/letswork.png" alt="My Linkedin"  width="1000"> </a>  
+  <img src="https://github.com/italicnich/italicnich/raw/main/just-a-line.png" alt="Just a purple line"  width="1000" height="20">   
+  <a href="#" target="_blank" rel="external"> <img src="https://github.com/italicnich/italicnich/raw/main/myemail.png" alt="My email"  width="1000"> </a> 
   <img src="https://github.com/italicnich/italicnich/raw/main/just-a-line.png" alt="Just a purple line"  width="1000" height="20">
-    
-  <a href="#" target="_blank" rel="external"> <img src="https://github.com/italicnich/italicnich/raw/main/myemail.png" alt="My email"  width="1000"> </a>
-    
-  <img src="https://github.com/italicnich/italicnich/raw/main/just-a-line.png" alt="Just a purple line"  width="1000" height="20">
-    
   <a href="#" target="_blank" rel="external"> <img src="https://github.com/italicnich/italicnich/raw/main/tiktok.png" alt="My tiktok"  width="1000"> </a>
-    
   <img src="https://github.com/italicnich/italicnich/raw/main/just-a-line.png" alt="Just a purple line"  width="1000" height="20">
     
 </div>
