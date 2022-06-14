@@ -15,7 +15,7 @@
 
   <h1> <i> Hey There, I'm <a href="#" target="_blank" rel="external"> Nich </a> </i> </h1>
 
-  <h3> <i> And this is a little introduction to my profile on github </i> </h3>
+  <h3> <i> And this is a little introduction to my universe </i> </h3>
   
   <a href="https://github.com/italicnich">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=italicnich&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
