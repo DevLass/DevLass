@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  
 
-  <h1> <i> Hey There, I'm <a href="#" target="_blank" rel="external"> Nich </a> </i> </h1>
+  <h1> <i> Hey There, I'm <a href="https://www.linkedin.com/in/nicollas-venancio/" target="_blank" rel="external"> Nich </a> </i> </h1>
 
   <h3> <i> And this is a little introduction to my universe </i> </h3>
   
