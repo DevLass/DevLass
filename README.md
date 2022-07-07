@@ -27,16 +27,16 @@
   <h2> <i> I'm a Brazilian web developer with a thirst for knowledge, and I'm always posting my evolution here </i> </h2>
   <div>
   <a href="#" target="_blank" rel="external">
-  <img src="https://github.com/italicnich/italicnich/raw/main/project-3.png" alt="Main Project" width="40%"/>
+  <img src="https://github.com/italicnich/italicnich/raw/main/project-3.png" alt="Main Project" width="45%"/>
   </a>
   <a href="#" target="_blank" rel="external">
-  <img src="https://github.com/italicnich/italicnich/raw/main/project-1.png" alt="Main Project" width="40%"/>
+  <img src="https://github.com/italicnich/italicnich/raw/main/project-1.png" alt="Main Project" width="45%"/>
   </a>
   <a href="#" target="_blank" rel="external">
-  <img src="https://github.com/italicnich/italicnich/raw/main/project-2.png" alt="Main Project" width="40%"/>
+  <img src="https://github.com/italicnich/italicnich/raw/main/project-2.png" alt="Main Project" width="45%"/>
   </a>
   <a href="" target="_blank" rel="external">
-  <img src="https://github.com/italicnich/italicnich/raw/main/project-4.png" alt="Main Project" width="40%"/>
+  <img src="https://github.com/italicnich/italicnich/raw/main/project-4.png" alt="Main Project" width="45%"/>
   </a>
   </div>
   
