@@ -15,6 +15,8 @@
 
   <h1> <i> Hey There, I'm <a href="https://www.linkedin.com/in/nicollas-venancio/" target="_blank" rel="external"> Nich </a> </i> </h1>
 
+  <h3> <i> I'm a Brazilian web developer with a thirst for knowledge, and I'm always posting my evolution here </i> </h3>
+  
   <h3> <i> And this is a little introduction to my universe </i> </h3>
   
   <a href="https://github.com/italicnich">
@@ -22,31 +24,25 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italicnich&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
   
-   <h3> <i> I'm a Brazilian web developer with a thirst for knowledge, and I'm always posting my evolution here </i> </h3>
-  
-  <img src="https://github.com/italicnich/italicnich/raw/main/projects.png" alt="Main Project title"  width="900vw">
-  
   <h2> <i> I'm a Brazilian web developer with a thirst for knowledge, and I'm always posting my evolution here </i> </h2>
   <div>
   <a href="#" target="_blank" rel="external">
-  <img src="https://github.com/italicnich/italicnich/raw/main/project-3.png" alt="Main Project" width="445vw"/>
+  <img src="https://github.com/italicnich/italicnich/raw/main/project-3.png" alt="Main Project" width="40%"/>
   </a>
   <a href="#" target="_blank" rel="external">
-  <img src="https://github.com/italicnich/italicnich/raw/main/project-1.png" alt="Main Project" width="445vw"/>
+  <img src="https://github.com/italicnich/italicnich/raw/main/project-1.png" alt="Main Project" width="40%"/>
   </a>
   <a href="#" target="_blank" rel="external">
-  <img src="https://github.com/italicnich/italicnich/raw/main/project-2.png" alt="Main Project" width="445vw"/>
+  <img src="https://github.com/italicnich/italicnich/raw/main/project-2.png" alt="Main Project" width="40%"/>
   </a>
   <a href="" target="_blank" rel="external">
-  <img src="https://github.com/italicnich/italicnich/raw/main/project-4.png" alt="Main Project" width="445vw"/>
+  <img src="https://github.com/italicnich/italicnich/raw/main/project-4.png" alt="Main Project" width="40%"/>
   </a>
   </div>
   
   </div>
   
-  <h3 align="justify"> <i> This is a simple game with html, css and javascript, it has simple jump and collision functions and it was the first time I dealt with continuous animations in css  </i> </h3>
- 
-  <h3 align="justify"> <i>I intend to work a little more on this project, add a scoreboard and a menu, but you can see more details of this process in my <a href="https://github.com/italicnich/jump-game" target="_blank" rel="external"> repository </a> </i> </h3>
+  <h3 align="justify"> <i>   </i> </h3>
 
   <h3 align="center" > <i> Follow me on my Socials: </i> </h3>
   
