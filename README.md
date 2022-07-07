@@ -29,12 +29,20 @@
   <h2> <i> Bootstrap Travel Page <i> </h2>
 
   <div>
-  <img src="https://github.com/italicnich/italicnich/raw/main/img-gif-2.gif" alt="Main Project" width="50%">
-  <img src="https://github.com/italicnich/italicnich/raw/main/img-gif-2.gif" alt="Main Project" width="50%">
-  <img src="https://github.com/italicnich/italicnich/raw/main/img-gif-2.gif" alt="Main Project" width="50%">
-  <img src="https://github.com/italicnich/italicnich/raw/main/img-gif-2.gif" alt="Main Project" width="50%">
+  <a href="#" target="_blank" rel="external">
+  <img src="https://github.com/italicnich/italicnich/raw/main/1.png" alt="Main Project" width="40%"/>
+  </a>
+  <a href="#" target="_blank" rel="external">
+  <img src="https://github.com/italicnich/italicnich/raw/main/1.png" alt="Main Project" width="40%"/>
+  </a>
+  <a href="#" target="_blank" rel="external">
+  <img src="https://github.com/italicnich/italicnich/raw/main/1.png" alt="Main Project" width="40%"/>
+  </a>
+  <a href="" target="_blank" rel="external">
+  <img src="https://github.com/italicnich/italicnich/raw/main/1.png" alt="Main Project" width="40%"/>
+  </a>
   </div>
-
+  
   </div>
   
   <h3 align="justify"> <i> This is a simple game with html, css and javascript, it has simple jump and collision functions and it was the first time I dealt with continuous animations in css  </i> </h3>
