@@ -36,6 +36,12 @@
   
   <h3 align="justify"> <i> Artist credits: <a href="https://opengameart.org/content/sunny-land-2d-pixel-art-pack" target="_blank" rel="external"> ansimuz </a> </i> </h3>
     
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) 
+    
+    
+    <!--
   <img src="https://github.com/italicnich/italicnich/raw/main/just-a-line.png" alt="Just a purple line"  width="1000" height="20">
   <a href="https://www.linkedin.com/in/nicollas-venancio/" target="_blank" rel="external"> <img src="https://github.com/italicnich/italicnich/raw/main/2.png" alt="My Linkedin"  width="1000"> </a>  
   <img src="https://github.com/italicnich/italicnich/raw/main/just-a-line.png" alt="Just a purple line"  width="1000" height="20">   
@@ -43,6 +49,6 @@
   <img src="https://github.com/italicnich/italicnich/raw/main/just-a-line.png" alt="Just a purple line"  width="1000" height="20">
   <a href="#" target="_blank" rel="external"> <img src="https://github.com/italicnich/italicnich/raw/main/1.png" alt="My tiktok"  width="1000"> </a>
   <img src="https://github.com/italicnich/italicnich/raw/main/just-a-line.png" alt="Just a purple line"  width="1000" height="20">
-    
+    -->
 </div>
 
