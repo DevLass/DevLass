@@ -26,29 +26,34 @@
   
   <img src="https://github.com/italicnich/italicnich/raw/main/projects.png" alt="Main Project title"  width="1000">
   
-  <h2> <i> Plataform Run Game <i> </h2>
-  
-  <img src="https://github.com/italicnich/italicnich/raw/main/img-gif.gif" alt="Main Project" width="1000">
+  <h2> <i> Bootstrap Travel Page <i> </h2>
+
+  <div>
+  <img src="https://github.com/italicnich/italicnich/raw/main/img-gif-2.gif" alt="Main Project" width="50%">
+  <img src="https://github.com/italicnich/italicnich/raw/main/img-gif-2.gif" alt="Main Project" width="50%">
+  <img src="https://github.com/italicnich/italicnich/raw/main/img-gif-2.gif" alt="Main Project" width="50%">
+  <img src="https://github.com/italicnich/italicnich/raw/main/img-gif-2.gif" alt="Main Project" width="50%">
+  </div>
+
+  </div>
   
   <h3 align="justify"> <i> This is a simple game with html, css and javascript, it has simple jump and collision functions and it was the first time I dealt with continuous animations in css  </i> </h3>
  
   <h3 align="justify"> <i>I intend to work a little more on this project, add a scoreboard and a menu, but you can see more details of this process in my <a href="https://github.com/italicnich/jump-game" target="_blank" rel="external"> repository </a> </i> </h3>
-  
-  <h3 align="justify"> <i> Artist credits: <a href="https://opengameart.org/content/sunny-land-2d-pixel-art-pack" target="_blank" rel="external"> ansimuz </a> </i> </h3>
-    
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) 
-    
-    
-    <!--
-  <img src="https://github.com/italicnich/italicnich/raw/main/just-a-line.png" alt="Just a purple line"  width="1000" height="20">
-  <a href="https://www.linkedin.com/in/nicollas-venancio/" target="_blank" rel="external"> <img src="https://github.com/italicnich/italicnich/raw/main/2.png" alt="My Linkedin"  width="1000"> </a>  
-  <img src="https://github.com/italicnich/italicnich/raw/main/just-a-line.png" alt="Just a purple line"  width="1000" height="20">   
-  <a href="#" target="_blank" rel="external"> <img src="https://github.com/italicnich/italicnich/raw/main/3.png" alt="My email"  width="1000"> </a> 
-  <img src="https://github.com/italicnich/italicnich/raw/main/just-a-line.png" alt="Just a purple line"  width="1000" height="20">
-  <a href="#" target="_blank" rel="external"> <img src="https://github.com/italicnich/italicnich/raw/main/1.png" alt="My tiktok"  width="1000"> </a>
-  <img src="https://github.com/italicnich/italicnich/raw/main/just-a-line.png" alt="Just a purple line"  width="1000" height="20">
-    -->
-</div>
 
+  <h3 align="center" > <i> Follow me on my Socials: </i> </h3>
+  
+  <div align="center">
+  <a href="https://www.linkedin.com/in/nicollas-venancio/" target="_blank" rel="external">
+  <img align="center" alt="My Email" width="40" src="https://cdn-icons-png.flaticon.com/512/281/281769.png">
+  </a>
+
+  <a href="https://www.linkedin.com/in/nicollas-venancio/" target="_blank" rel="external" >
+  <img  align="center" alt="My Linkedin" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+  </a>
+
+  <a href="https://www.linkedin.com/in/nicollas-venancio/" target="_blank" rel="external">
+  <img align="center" alt="My Tiktok" width="40" src="https://seeklogo.com/images/T/tiktok-app-icon-logo-0F5AD7AE01-seeklogo.com.png">
+  </a>
+  </div>
+  
