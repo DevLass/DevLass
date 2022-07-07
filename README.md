@@ -29,16 +29,16 @@
 
   <div>
   <a href="#" target="_blank" rel="external">
-  <img src="https://github.com/italicnich/italicnich/raw/main/1.png" alt="Main Project" width="445vw"/>
+  <img src="https://github.com/italicnich/italicnich/raw/main/project-3.png" alt="Main Project" width="445vw"/>
   </a>
   <a href="#" target="_blank" rel="external">
-  <img src="https://github.com/italicnich/italicnich/raw/main/1.png" alt="Main Project" width="445vw"/>
+  <img src="https://github.com/italicnich/italicnich/raw/main/project-1.png" alt="Main Project" width="445vw"/>
   </a>
   <a href="#" target="_blank" rel="external">
-  <img src="https://github.com/italicnich/italicnich/raw/main/1.png" alt="Main Project" width="445vw"/>
+  <img src="https://github.com/italicnich/italicnich/raw/main/project-2.png" alt="Main Project" width="445vw"/>
   </a>
   <a href="" target="_blank" rel="external">
-  <img src="https://github.com/italicnich/italicnich/raw/main/1.png" alt="Main Project" width="445vw"/>
+  <img src="https://github.com/italicnich/italicnich/raw/main/project-4.png" alt="Main Project" width="445vw"/>
   </a>
   </div>
   
