@@ -26,7 +26,7 @@
   
   <img src="https://github.com/italicnich/italicnich/raw/main/projects.png" alt="Main Project title"  width="900vw">
   
-
+  <h2> <i> I'm a Brazilian web developer with a thirst for knowledge, and I'm always posting my evolution here </i> </h2>
   <div>
   <a href="#" target="_blank" rel="external">
   <img src="https://github.com/italicnich/italicnich/raw/main/project-3.png" alt="Main Project" width="445vw"/>
