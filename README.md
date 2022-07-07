@@ -24,22 +24,21 @@
   
    <h3> <i> I'm a Brazilian web developer with a thirst for knowledge, and I'm always posting my evolution here </i> </h3>
   
-  <img src="https://github.com/italicnich/italicnich/raw/main/projects.png" alt="Main Project title"  width="1000">
+  <img src="https://github.com/italicnich/italicnich/raw/main/projects.png" alt="Main Project title"  width="900vw">
   
-  <h2> <i> Bootstrap Travel Page <i> </h2>
 
   <div>
   <a href="#" target="_blank" rel="external">
-  <img src="https://github.com/italicnich/italicnich/raw/main/1.png" alt="Main Project" width="40%"/>
+  <img src="https://github.com/italicnich/italicnich/raw/main/1.png" alt="Main Project" width="445vw"/>
   </a>
   <a href="#" target="_blank" rel="external">
-  <img src="https://github.com/italicnich/italicnich/raw/main/1.png" alt="Main Project" width="40%"/>
+  <img src="https://github.com/italicnich/italicnich/raw/main/1.png" alt="Main Project" width="445vw"/>
   </a>
   <a href="#" target="_blank" rel="external">
-  <img src="https://github.com/italicnich/italicnich/raw/main/1.png" alt="Main Project" width="40%"/>
+  <img src="https://github.com/italicnich/italicnich/raw/main/1.png" alt="Main Project" width="445vw"/>
   </a>
   <a href="" target="_blank" rel="external">
-  <img src="https://github.com/italicnich/italicnich/raw/main/1.png" alt="Main Project" width="40%"/>
+  <img src="https://github.com/italicnich/italicnich/raw/main/1.png" alt="Main Project" width="445vw"/>
   </a>
   </div>
   
