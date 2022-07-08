@@ -41,6 +41,8 @@
   
   <h3> <i> In the midst of all this we have websites, blogs, games, utilities. Each one of them tell a dot of my adventure in this developer world.</i> </h3>
   
+  <hr>
+  
   <h3> <i>I'm currently studying these technologies, and who knows, maybe one day I'll work with one of them.</i> </h3>
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
