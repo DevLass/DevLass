@@ -67,7 +67,5 @@
   <img align="center" alt="My Tiktok" width="40" src="https://seeklogo.com/images/T/tiktok-app-icon-logo-0F5AD7AE01-seeklogo.com.png">
   </a>
 </div>
-
-
 </div>
 
