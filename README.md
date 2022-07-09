@@ -25,16 +25,16 @@
   
   <h2> <i> - Take a look at my main projects - </i> </h2>
   <div>
-  <a href="#" target="_blank" rel="external">
+  <a href="https://github.com/italicnich/jump-game" target="_blank" rel="external">
   <img src="https://github.com/italicnich/italicnich/raw/main/project-3.png" alt="Main Project" width="45%"/>
   </a>
-  <a href="#" target="_blank" rel="external">
+  <a href="https://github.com/italicnich/bootstrap-template-1" target="_blank" rel="external">
   <img src="https://github.com/italicnich/italicnich/raw/main/project-1.png" alt="Main Project" width="45%"/>
   </a>
-  <a href="#" target="_blank" rel="external">
+  <a href="https://github.com/italicnich/simple-site" target="_blank" rel="external">
   <img src="https://github.com/italicnich/italicnich/raw/main/project-2.png" alt="Main Project" width="45%"/>
   </a>
-  <a href="" target="_blank" rel="external">
+  <a href="https://github.com/italicnich/guess_game" target="_blank" rel="external">
   <img src="https://github.com/italicnich/italicnich/raw/main/project-4.png" alt="Main Project" width="45%"/>
   </a>
   </div>
