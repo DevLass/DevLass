@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/italicnich/italicnich/raw/main/imnich.gif" alt="Hey there, I'm Nich" height="400" width="1000">
+  <img src="https://github.com/italicnich/italicnich/raw/main/imnich.gif" alt="Hey there, I'm Nich" height="400" >
 </p>
 
 <div align="center">
