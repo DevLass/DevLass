@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/italicnich/italicnich/raw/main/imnich.gif" alt="Hey there, I'm Nich" height="400" >
+  <img src="https://github.com/DevLass/DevLass/raw/main/imnich.gif" alt="Hey there, I'm Nich" height="400" >
 </p>
 
 <div align="center">
@@ -18,24 +18,24 @@
   
   <h3> <i> A little introduction to my universe: </i> </h3>
   
-  <a href="https://github.com/italicnich">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=italicnich&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italicnich&theme=dracula&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/DevLass">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevLass&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLass&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
   
   <h2> <i> - Take a look at my main projects - </i> </h2>
   <div>
-  <a href="https://github.com/italicnich/jump-game" target="_blank" rel="external">
-  <img src="https://github.com/italicnich/italicnich/raw/main/project-3.png" alt="Main Project" width="45%"/>
+  <a href="https://github.com/DevLass/jump-game" target="_blank" rel="external">
+  <img src="https://github.com/DevLass/DevLass/raw/main/project-3.png" alt="Main Project" width="45%"/>
   </a>
-  <a href="https://github.com/italicnich/bootstrap-template-1" target="_blank" rel="external">
-  <img src="https://github.com/italicnich/italicnich/raw/main/project-1.png" alt="Main Project" width="45%"/>
+  <a href="https://github.com/DevLass/bootstrap-template-1" target="_blank" rel="external">
+  <img src="https://github.com/DevLass/DevLass/raw/main/project-1.png" alt="Main Project" width="45%"/>
   </a>
-  <a href="https://github.com/italicnich/simple-site" target="_blank" rel="external">
-  <img src="https://github.com/italicnich/italicnich/raw/main/project-2.png" alt="Main Project" width="45%"/>
+  <a href="https://github.com/DevLass/simple-site" target="_blank" rel="external">
+  <img src="https://github.com/DevLass/DevLass/raw/main/project-2.png" alt="Main Project" width="45%"/>
   </a>
-  <a href="https://github.com/italicnich/guess_game" target="_blank" rel="external">
-  <img src="https://github.com/italicnich/italicnich/raw/main/project-4.png" alt="Main Project" width="45%"/>
+  <a href="https://github.com/DevLass/guess_game" target="_blank" rel="external">
+  <img src="https://github.com/DevLass/DevLass/raw/main/project-4.png" alt="Main Project" width="45%"/>
   </a>
   </div>
   
@@ -50,8 +50,8 @@
 ![TailWind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
-![Sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  
-  
+![Sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
   <h3> <i> And if you want to be part of my story, call me on one of my socials:</i> </h3>
 
 <div>
@@ -68,4 +68,3 @@
   </a>
 </div>
 </div>
-
