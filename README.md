@@ -13,8 +13,10 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
   <h1> <i> Hey There, I'm <a href="https://www.linkedin.com/in/nicollas-venancio/" target="_blank" rel="external"> Lass </a> </i> </h1>
-
+  
   <h3> <i> I'm a Brazilian Web developer with a thirst for knowledge, and I'm always posting my evolution here </i> </h3>
+
+  <h4> <i>⚠️I updated a link on all repositories recently, they are in reverse order from oldest to newest, srry :p ⚠️ </i> </h4>
   
   <h3> <i> A little introduction to my universe: </i> </h3>
   
