@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DevLass/DevLass/raw/main/imnich.gif" alt="Hey there, I'm Nich" height="400" >
+  <img src="https://github.com/DevLass/DevLass/raw/main/imnich.gif" alt="Hey there, I'm Lass" height="400" >
 </p>
 
 <div align="center">
@@ -12,7 +12,7 @@
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-  <h1> <i> Hey There, I'm <a href="https://www.linkedin.com/in/nicollas-venancio/" target="_blank" rel="external"> Nich </a> </i> </h1>
+  <h1> <i> Hey There, I'm <a href="https://www.linkedin.com/in/nicollas-venancio/" target="_blank" rel="external"> Lass </a> </i> </h1>
 
   <h3> <i> I'm a Brazilian Web developer with a thirst for knowledge, and I'm always posting my evolution here </i> </h3>
   
