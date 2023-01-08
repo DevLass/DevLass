@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DevLass/DevLass/raw/main/lass.gif" alt="Hey there, I'm Lass" height="400" >
+  <img src="https://github.com/DevLass/DevLass/raw/main/newimnich.gif" alt="Hey there, I'm Lass" height="400" >
 </p>
 
 <div align="center">
