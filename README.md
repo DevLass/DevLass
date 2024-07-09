@@ -14,7 +14,9 @@
 
   <h1> <i> Hey There, I'm <a href="https://www.linkedin.com/in/nicollas-venancio/" target="_blank" rel="external"> Lass </a> </i> </h1>
   
-  <h3> <i> I'm a Brazilian Web developer with a thirst for knowledge, and I'm always posting my evolution here </i> </h3>
+  <h3> <i> I'm a Brazilian Data Analyst with a thirst for knowledge, and I'm always posting my evolution here </i> </h3>
+
+  <h3> <i>I've also worked as a Web developer, take a look at what brought me here! </i> </h3>
 
   <h4> <i>⚠️I updated a link on all repositories recently, they are in reverse order from oldest to newest, srry :p ⚠️ </i> </h4>
   
