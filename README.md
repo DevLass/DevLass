@@ -8,7 +8,7 @@
   
   <h3> <i> I'm a Brazilian Data Analyst with a thirst for knowledge, and I'm always posting my evolution here </i> </h3>
 
-<h3> <i>I've also worked as a Web developer, take a look at what brought me here! </i> </h3>
+<h3> <i></i> </h3>
 
   <h4> <i>⚠️I updated a link on all repositories recently, they are in reverse order from oldest to newest, srry :p ⚠️ </i> </h4>
   
@@ -19,7 +19,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLass&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
   
-  <h2> <i> - Take a look at my main projects - </i> </h2>
+  <h2> <i> - I've also worked as a Web developer, take a look at what brought me here!  - </i> </h2>
 
   ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
