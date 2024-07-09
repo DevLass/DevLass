@@ -63,9 +63,5 @@
   <a href="https://www.linkedin.com/in/nicollas-venancio/" target="_blank" rel="external" >
   <img  align="center" alt="My Linkedin" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   </a>
-
-  <a href="https://www.linkedin.com/in/nicollas-venancio/" target="_blank" rel="external">
-  <img align="center" alt="My Tiktok" width="40" src="https://seeklogo.com/images/T/tiktok-app-icon-logo-0F5AD7AE01-seeklogo.com.png">
-  </a>
 </div>
 </div>
