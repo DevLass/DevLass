@@ -3,7 +3,11 @@
 </p>
 
 <div align="center">
+
+  <h1> <i> Hey There, I'm <a href="https://www.linkedin.com/in/nicollas-venancio/" target="_blank" rel="external"> Lass </a> </i> </h1>
   
+  <h3> <i> I'm a Brazilian Data Analyst with a thirst for knowledge, and I'm always posting my evolution here </i> </h3>
+
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -11,10 +15,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-  <h1> <i> Hey There, I'm <a href="https://www.linkedin.com/in/nicollas-venancio/" target="_blank" rel="external"> Lass </a> </i> </h1>
-  
-  <h3> <i> I'm a Brazilian Data Analyst with a thirst for knowledge, and I'm always posting my evolution here </i> </h3>
 
   <h3> <i>I've also worked as a Web developer, take a look at what brought me here! </i> </h3>
 
