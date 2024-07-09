@@ -13,7 +13,9 @@
   <h1> <i> Hey There, I'm <a href="https://www.linkedin.com/in/nicollas-venancio/" target="_blank" rel="external"> Lass </a> </i> </h1>
   
   <h3> <i> I'm a Brazilian Data Analyst with a thirst for knowledge, and I'm always posting my evolution here </i> </h3>
-  
+
+  <p> <i>I can't include many of the data analysis projects I work on here due to data security :p.</i> </p>
+ 
   <h3> <i> A little introduction to my universe: </i> </h3>
   
   <a href="https://github.com/DevLass">
