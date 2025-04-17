@@ -40,7 +40,6 @@
   </a>
   </div>
   
-  <h3> <i> In the midst of all this we have websites, blogs, games, utilities. Each one of them tell a dot of my adventure in this developer world.</i> </h3>
   
   <hr>
 
