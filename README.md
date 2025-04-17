@@ -12,11 +12,12 @@
 )
 
  <h3>  I'm a Brazilian Data Analyst / BI with a thirst for knowledge, and I'm always posting my evolution here </h3>
+ <p>I can't include many of the data analysis projects I work on here due to data security. A little introduction to my universe:</p>
+
 
 </div>
   
 
-  <p>I can't include many of the data analysis projects I work on here due to data security. A little introduction to my universe:</p>
  
   
   <a href="https://github.com/DevLass">
