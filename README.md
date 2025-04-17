@@ -12,18 +12,15 @@
 )
 
  <h3>  I'm a Brazilian Data Analyst / BI with a thirst for knowledge, and I'm always posting my evolution here </h3>
- <p>I can't include many of the data analysis projects I work on here due to data security. A little introduction to my universe:</p>
-
-
-</div>
+ <p>I can't include many of the data analysis projects I work on here due to data security. A little introduction to my universe:</p
   
 
- 
-  
   <a href="https://github.com/DevLass">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevLass&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLass&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
+
+</div>
   
 
   <div>
