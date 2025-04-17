@@ -24,15 +24,6 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLass&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
   
-  <h2> <i> - I've also worked as a Web developer, take a look at what brought me here!  - </i> </h2>
-
-  ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
   <div>
   <a href="" target="_blank" rel="external">
