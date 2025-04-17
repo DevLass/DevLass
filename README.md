@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DevLass/DevLass/raw/main/banner.png" alt="Hey there, I'm Lass" >
+  <img src="https://github.com/DevLass/DevLass/raw/main/banner2.png" alt="Hey there, I'm Lass" >
 </p>
 
 <div align="center">
