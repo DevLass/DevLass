@@ -17,7 +17,7 @@
 
   <a href="https://github.com/DevLass">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevLass&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLass&theme=dark&hide_border=false&layout=compact&cache_bust=1"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLass&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 
 </div>
