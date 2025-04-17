@@ -47,11 +47,11 @@
 
 <div>
   <a href="https://www.linkedin.com/in/nicollas-venancio/" target="_blank" rel="external">
-  <img align="center" alt="My Email" width="40" src="https://cdn-icons-png.flaticon.com/512/281/281769.png">
+  <img align="center" alt="My Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
 
   <a href="https://www.linkedin.com/in/nicollas-venancio/" target="_blank" rel="external" >
-  <img  align="center" alt="My Linkedin" width="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img  align="center" alt="My Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
 </div>
