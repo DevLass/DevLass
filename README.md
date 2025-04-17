@@ -41,6 +41,7 @@
   
   <hr>
   
+
 <div align="center">
   <p>  If you want to be part of my story, call me on one of my socials: <p>
 
@@ -50,7 +51,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/nicollas-venancio/" target="_blank" rel="external" >
-  <img  align="center" alt="My Linkedin" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+  <img  align="center" alt="My Linkedin" width="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
 </div>
