@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DevLass/DevLass/raw/main/newimnich.gif" alt="Hey there, I'm Lass" height="400" >
+  <img src="" alt="Hey there, I'm Lass" height="400" >
 </p>
 
 <div align="center">
@@ -35,17 +35,17 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
   <div>
-  <a href="https://github.com/DevLass/jump-game" target="_blank" rel="external">
-  <img src="https://github.com/DevLass/DevLass/raw/main/project-3.png" alt="Main Project" width="45%"/>
+  <a href="" target="_blank" rel="external">
+  <img src="" alt="Main Project" width="45%"/>
   </a>
-  <a href="https://github.com/DevLass/bootstrap-template-1" target="_blank" rel="external">
-  <img src="https://github.com/DevLass/DevLass/raw/main/project-1.png" alt="Main Project" width="45%"/>
+  <a href="" target="_blank" rel="external">
+  <img src="" alt="Main Project" width="45%"/>
   </a>
-  <a href="https://github.com/DevLass/simple-site" target="_blank" rel="external">
-  <img src="https://github.com/DevLass/DevLass/raw/main/project-2.png" alt="Main Project" width="45%"/>
+  <a href="" target="_blank" rel="external">
+  <img src="" alt="Main Project" width="45%"/>
   </a>
-  <a href="https://github.com/DevLass/guess_game" target="_blank" rel="external">
-  <img src="https://github.com/DevLass/DevLass/raw/main/project-4.png" alt="Main Project" width="45%"/>
+  <a href="" target="_blank" rel="external">
+  <img src="" alt="Main Project" width="45%"/>
   </a>
   </div>
   
