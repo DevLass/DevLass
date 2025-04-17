@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DevLass/DevLass/raw/main/banner3.png" alt="Hey there, I'm Lass" >
+  <img src="https://github.com/DevLass/DevLass/raw/main/banner4.png" alt="Hey there, I'm Lass" >
 </p>
 
 <div align="center">
@@ -16,8 +16,8 @@
   
 
   <a href="https://github.com/DevLass">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevLass&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLass&theme=transparent&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevLass&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLass&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 
 </div>
