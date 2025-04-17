@@ -22,7 +22,7 @@
 
 </div>
   
-
+<!--
   <div>
   <a href="" target="_blank" rel="external">
   <img src="" alt="Main Project" width="45%"/>
@@ -36,7 +36,7 @@
   <a href="" target="_blank" rel="external">
   <img src="" alt="Main Project" width="45%"/>
   </a>
-
+-->
   
   
   <hr>
