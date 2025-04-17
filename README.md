@@ -11,13 +11,13 @@
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
 
-  <h1> <i> Hey There, I'm <a href="https://www.linkedin.com/in/nicollas-venancio/" target="_blank" rel="external"> Lass </a> </i> </h1>
+  <h1>  Hey There, I'm <a href="https://www.linkedin.com/in/nicollas-venancio/" target="_blank" rel="external"> Lass </a> </h1>
   
-  <h3> <i> I'm a Brazilian Data Analyst / BI with a thirst for knowledge, and I'm always posting my evolution here </i> </h3>
+  <h3>  I'm a Brazilian Data Analyst / BI with a thirst for knowledge, and I'm always posting my evolution here </h3>
 
-  <p> <i>I can't include many of the data analysis projects I work on here due to data security :p.</i> </p>
+  <p> I can't include many of the data analysis projects I work on here due to data security :p. </p>
  
-  <h3> <i> A little introduction to my universe: </i> </h3>
+  <p>  A little introduction to my universe:  <p>
   
   <a href="https://github.com/DevLass">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevLass&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
@@ -43,7 +43,7 @@
   
   <hr>
 
-  <h3> <i> And if you want to be part of my story, call me on one of my socials:</i> </h3>
+  <p>  And if you want to be part of my story, call me on one of my socials: <p>
 
 <div>
   <a href="https://www.linkedin.com/in/nicollas-venancio/" target="_blank" rel="external">
