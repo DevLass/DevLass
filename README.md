@@ -16,9 +16,8 @@
 </div>
   
 
-  <p>I can't include many of the data analysis projects I work on here due to data security :p. </p>
+  <p>I can't include many of the data analysis projects I work on here due to data security. A little introduction to my universe:</p>
  
-  <p> A little introduction to my universe:  <p>
   
   <a href="https://github.com/DevLass">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevLass&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
